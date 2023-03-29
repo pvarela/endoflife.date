@@ -3,6 +3,7 @@ title: React
 permalink: /react
 iconSlug: react
 category: framework
+tags: meta javascript-runtime
 releasePolicyLink: https://reactjs.org/docs/release-channels.html
 changelogTemplate: https://github.com/facebook/react/releases/tag/v__LATEST__
 activeSupportColumn: true

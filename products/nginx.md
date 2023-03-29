@@ -4,6 +4,7 @@ permalink: /nginx
 iconSlug: nginx
 releasePolicyLink: https://www.nginx.com/blog/nginx-1-18-1-19-released/#NGINX-Versioning-Explained
 category: server-app
+tags: web-server
 activeSupportColumn: false
 versionCommand: nginx -v
 releaseColumn: true

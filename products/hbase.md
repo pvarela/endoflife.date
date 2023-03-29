@@ -6,6 +6,7 @@ alternate_urls:
 -   /apache-hbase
 releasePolicyLink: https://hbase.apache.org/downloads.html
 category: server-app
+tags: apache java-runtime
 changelogTemplate: https://downloads.apache.org/hbase/{{"__LATEST__"}}/CHANGES.md
 activeSupportColumn: false
 eolColumn: Service Status
